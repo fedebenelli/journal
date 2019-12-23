@@ -6,5 +6,5 @@ When adding an entry, use the string '\n' to add a new paragraph since pressing 
 
 When you compile your journal a \'journal.md\' file will me made, the content of this file can be compiled into a .pdf file with the software of your choice. (I use pandoc on Linux)
 
-# To-do:
+# To-do (I'm totally open to sugestions):
 1. Export the full_journal as a .html file (possible with markdown library)
